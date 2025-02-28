@@ -53,5 +53,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "bin": ["laravel-cli"]
+    "bin": ["laravel-zero-colissimo"]
 }
